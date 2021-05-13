@@ -4,7 +4,7 @@ A Simple App to fetch your location using Geolocator and Geocoding .
 
 # Dependencies
 geolocator: ^7.0.3
-  geocoding: ^2.0.0
+geocoding: ^2.0.0
   
 # Import Packages
 import 'package:geolocator/geolocator.dart';
